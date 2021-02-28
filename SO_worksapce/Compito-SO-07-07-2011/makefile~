@@ -1,4 +1,0 @@
-all: start
-
-start:
-	gcc -o start start.c procedure.c -lpthread
